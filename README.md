@@ -1,6 +1,6 @@
 # Modelos de aprendizaje profundo aplicados al reconocimiento del Parkinson en patrones de marcha con sensores inerciales
 
-Este repositorio contiene el código fuente y los datos utilizados para el desarrollo de un sistema de clasificación binaria de sujetos con y sin enfermedad de Parkinson, a partir de señales temporales obtenidas mediante sensores de movimiento. El proyecto incluye:
+Este repositorio contiene el código fuente para el desarrollo de un sistema de clasificación binaria de sujetos con y sin enfermedad de Parkinson, a partir de señales temporales obtenidas mediante sensores de movimiento. El proyecto incluye:
 
 - Scripts de preprocesamiento de datos (`fusionar_datos.py` y `data_handler.py`).
 - Modelo de red neuronal Bi-LSTM entrenado y su configuración.
