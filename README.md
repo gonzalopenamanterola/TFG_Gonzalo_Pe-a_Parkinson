@@ -6,6 +6,5 @@ Este repositorio contiene el código fuente para el desarrollo de un sistema de 
 - Modelo de red neuronal Bi-LSTM entrenado y su configuración.
 - Herramientas de evaluación (métricas y visualizaciones).
 - Interfaz gráfica de usuario desarrollada en `Tkinter` para facilitar la interacción.
-- Datos de ejemplo y estructura de carpetas de prueba.
 
 El objetivo principal es facilitar la reproducibilidad y la transferencia de conocimiento, permitiendo a otros investigadores y profesionales explorar, adaptar y mejorar el sistema.
